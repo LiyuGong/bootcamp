@@ -1,7 +1,7 @@
 ---
 title: "DSS Computing Bootcamp Template"
 author: Liyu Gong
-date: 8/26/2016
+date: 8/26/2016 11:31am
 output: html_document
 ---
 
